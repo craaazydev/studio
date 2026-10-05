@@ -360,7 +360,7 @@ export default function Home() {
             ideas, and probably too many reference photos.
           </p>
           <a className="contact-email" href="mailto:hello@mayabennett.co">
-            hello@mayabennett.co <span aria-hidden="true">↗</span>
+            artbyrayz@gmail.com <span aria-hidden="true">↗</span>
           </a>
           <div className="social-links">
             <a href="https://www.instagram.com/" target="_blank" rel="noreferrer">
